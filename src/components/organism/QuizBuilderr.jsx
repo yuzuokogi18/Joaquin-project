@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import QuestionForm from '../molecules/QuestionForm';
-import QuizPreview from '../molecules/QuizPreview';
+import QuestionForm from '../molecules/QuestionForms';
+import QuizPreview from '../molecules/QuizReview';
 import Button from '../atoms/Button';
 import styled from 'styled-components';
 

@@ -1,9 +1,9 @@
 import React from 'react';
-import QuizBuilder from './components/organism/QuizBuilder';
+import QuizBuilderr from './components/organism/QuizBuilderr';
 
 const App = () => (
   <div>
-    <QuizBuilder />
+    <QuizBuilderr />
   </div>
 );
 
